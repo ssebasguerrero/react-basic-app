@@ -1,0 +1,10 @@
+.product-row-container {
+    border: 1px solid red;
+    text-align: left;
+    margin-bottom: 3px;
+}
+
+.product-stock {
+    color: red;
+    font-weight: bold;
+}

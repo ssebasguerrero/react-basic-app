@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+.search-bar-container {
+    width: 95%;
+    min-height: 75px;
+    margin: 0 auto;
+    border: 1px solid blue;
+    padding: 10px;
+    margin-top: 10px;
+    text-align: left;
+}
+
+.search-input{
+    margin-bottom: 2px;
+}
